@@ -1,0 +1,35 @@
+# Build trees
+/build/
+/out/
+/install/
+
+# Visual Studio
+.vs/
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.iobj
+*.ipdb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+compile_commands.json
+*.ninja
+.ninja_deps
+.ninja_log
+
+# Editors and operating system noise
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+desktop.ini
