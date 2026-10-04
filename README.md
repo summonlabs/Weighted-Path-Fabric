@@ -1,7 +1,6 @@
 # Weighted Path Fabric 1.0.0
 
-Weighted Path Fabric is the authoritative non-equal path-weight governance runtime of the
-Summon Software Labs Distributed Fabric Infrastructure stack. It answers exactly one
+Weighted Path Fabric is the authoritative non-equal path-weight governance runtime for data-center fabric infrastructure. It answers exactly one
 question:
 
 > Given an exact governed set of currently eligible paths, what relative traffic-share
